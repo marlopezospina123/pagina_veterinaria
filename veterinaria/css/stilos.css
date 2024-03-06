@@ -1,0 +1,172 @@
+.img{
+    width: 6rem;
+}
+
+.fondo{
+    background-image: url(../multimedia/fondo1.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+}
+
+.nav-link{
+    font-family: Holyfat;
+    color: rgb(124, 238, 10);
+    font-size: 2.6rem;
+    
+}
+.nav{
+    background-color: aliceblue;
+    border-radius: 19px;
+}
+.nav-link:hover{
+    color: aliceblue;
+    background-color: rgb(88, 242, 10);
+    border-radius: 1rem;
+}
+
+@font-face {
+    font-family:Holyfat ;
+    src: url(../multimedia/Holyfat.ttf);
+}
+.letra{
+    color: rgb(87, 238, 11);
+}
+
+.letra2{
+    color: rgb(87, 238, 11);
+    display: flex;
+    
+    
+}
+.parrafo{
+    color: rgb(21, 188, 244);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    gap: 1rems;
+}
+
+.boton{
+    background-color: rgb(89, 255, 0);
+    font-family: Holyfat;
+    color: aliceblue;
+    font-size: 2.7rem;
+    text-align: center;
+    width: 14rem;
+    height: 6rem;
+    border-radius: 48%;
+    padding: 2rem;
+    display: flex;
+    align-items: center;
+    border: solid 0px;
+
+}
+
+.boton:hover{
+    color: rgb(15, 246, 15);
+    background-color: aliceblue;
+    
+}
+
+
+.col-lg-6 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.titulo1{
+    color: rgb(87, 238, 11);
+    background-color: rgba(240, 248, 255, 0.495);
+    width:36rem ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    font-size: 2rem;
+    font-family: Holyfat;
+    margin-bottom: 1rem;
+    
+}
+
+.parra{
+    background-color: rgba(87, 238, 11, 0.775);
+    width: 36rem;
+    color: white;
+    padding: 2px;
+    font-size: 17px;
+    text-align: center;
+    height: 9rem;
+}
+
+.video1{
+    width: 22rem;
+}
+
+.tems{
+    color: rgb(87, 238, 11);
+    background-color: rgba(240, 248, 255, 0.495);
+    width:36rem ;
+    text-align: center;
+    border-radius: 2rem;
+    font-size: 2rem;
+    font-family: Holyfat;
+    
+    
+}
+.pasos{
+    background-color: rgba(87, 238, 11, 0.775);
+    width: 36rem;
+    height: 10rem;
+    color: white;
+    gap: 2rem;
+    font-size: 17px;
+    
+    
+}
+.perro{
+    width: 19rem;
+}
+
+.beneficios{
+    flex-direction: row;
+}
+.filtro:hover{
+    filter: brightness(1.1);
+}
+.logo2{
+    width: 6rem;
+}
+.ultim{
+    height: 6rem;
+    background-color: rgba(245, 248, 247, 0.692);
+}
+
+.titum {
+    padding: 2rem;
+    color:rgb(76, 210, 9);
+    font-family:Holyfat;
+    font-size: rem;
+    
+}
+
+footer {
+    background-color: rgba(255, 248, 220, 0.85);
+    width: 100%;
+    height: 12rem;
+}
+
+.logo8 {
+    width: 4rem;
+}
+
+.redes {
+    width: 3rem;
+}
+
+.slider {
+    margin: 1rem;
+}
+.d{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
